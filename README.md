@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone! I am on my way to finishing my ceritfication in becoming a Data Analyst while gaining some additonal skills in visualizations.
 
 <!--
 **miragephetsany/miragephetsany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
